@@ -66,7 +66,7 @@ ai-recipe-generator/
 ├── images/
 │   └── ingredients.jpg
 ├── screenshots/
-│   ├── example.png
+│   └── example.png
 ├── .env.example
 ├── .gitignore
 ├── requirements.txt
@@ -122,7 +122,7 @@ python recipe_cli.py
 ```bash
 python gradio_app.py
 ```
-  Open
+Open
   ```
   http://127.0.0.1:7860/
   ```
