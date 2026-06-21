@@ -1,4 +1,4 @@
-# AI-Image-Recipe-Generator
+# AI-Recipe-Generator
 ## Overview
 
 This project is a command-line AI application that analyzes food images and generates:
